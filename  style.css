@@ -6,7 +6,10 @@
     --cor-texto: #D7F9FF;
 }
 
+
+
 body {
+    
     background-color: var(--cor-de-fundo);
     color: var(--cor-texto);
     display: flex;
